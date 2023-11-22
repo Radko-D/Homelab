@@ -3,23 +3,6 @@
 
 WireHole is a docker-compose project that combines WireGuard, PiHole, and Unbound to create a full or split-tunnel VPN that is easy to deploy and manage. This setup allows for a VPN with ad-blocking via PiHole and enhanced DNS privacy and caching through Unbound.
 
-## Author
-
-👤 **Devin Stokes**
-
-- Twitter: [@DevinStokes](https://twitter.com/DevinStokes)
-- GitHub: [@IAmStoxe](https://github.com/IAmStoxe)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/IAmStoxe/wirehole/issues).
-
-## Show your support
-
-Give a ⭐ if this project helped you!
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-orange.png)](https://www.buymeacoffee.com/stoxe)
-
 ---
 
 ### Supported Architectures
